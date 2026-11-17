@@ -1,0 +1,3 @@
+:HL["/nomix-demo/_next/static/chunks/126748rk7ud_c.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"3LE4_oh_8h87y7XGsFngj","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
